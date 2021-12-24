@@ -1,0 +1,4 @@
+2)
+installing pycharm till 2.30.
+--in linux or linux related environment you can find python by just typing
+python --version.
